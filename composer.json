@@ -1,0 +1,19 @@
+{
+    "name": "elcapitano/employeemanagement",
+    "description": "Emloyee Management",
+    "authors": [
+        {
+            "name" : "Radouane BOUSSALEM",
+            "email": "boussalem.radouane@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {},
+    "license": "",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Elcapitano\\Employeemanagement\\": "src/"
+        }
+    }
+}
